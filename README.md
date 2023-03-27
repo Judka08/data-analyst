@@ -8,4 +8,6 @@ __Employee engagement__ - Excel file containing a table (cleaned data, calculati
 
 __Sales Dataset__ - Excel file with statistical data analysis.
 
+__Chicagio Taxi__ - A dashboard based on 200,000 records from a bigquery table https://console.cloud.google.com/marketplace/product/city-of-chicago-public-data/chicago-taxi-trips.
+
 [My sample dashboards created in Tableau](https://public.tableau.com/app/profile/judyta6092)
