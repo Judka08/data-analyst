@@ -3,6 +3,8 @@
 __HR Dataset__ - Excel file containing a table (cleaned data, pivot table) and dashboard supporting the recruitment department.
 Data was extracted from the MySQL database.
 
+__Employee Data__ - Employee report created in Power BI. The task used Power Query, grouping data, creating a date calendar and DAX formula.
+
 __Coffee Bean Sales__ - Excel file containing data from 3 tables. The task was to fill in missing data in the summary table and clean it in order to create a visualization based on it. 
 [Source](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
 
