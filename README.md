@@ -16,6 +16,7 @@ __Chicagio Taxi__ - A dashboard based on 200,000 records from a BigQuery table. 
 
 __Salary Rate__ - Salary Analysis in Excel. Necessary Data was downloaded from My SQL database and combined into one table. Based on it I created a histogram and a box plot.
 
+__Recruiting Processes__ - A report created in Power Bi summarizing the number of recruitment processes conducted in individual departments, their duration and other information. Contains calculations in DAX.
 
 [My sample dashboards created in Tableau](https://public.tableau.com/app/profile/judyta6092)
 
