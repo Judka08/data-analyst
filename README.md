@@ -14,15 +14,13 @@ __Employee engagement__ - Excel file containing a table (cleaned data, calculati
 
 __Chicagio Taxi__ - A dashboard based on 200,000 records from a BigQuery table. [Source](https://console.cloud.google.com/marketplace/product/city-of-chicago-public-data/chicago-taxi-trips).
 
+__Salary Rate__ - Salary Analysis in Excel. Necessary Data was downloaded from My SQL database and combined into one table. Based on it I created a histogram and a box plot.
+
 
 [My sample dashboards created in Tableau](https://public.tableau.com/app/profile/judyta6092)
 
 <details>
 <summary> Others </summary>
-
-__Customers Orders__ - Database created in MS Access
-
-__Marketing AB__ - Presentation and Excel file with the results of the marketing campaign
 
 __Healthcare Dataset__ - Statistical analysis of patients' health
 
