@@ -18,6 +18,8 @@ __Salary Rate__ - Salary Analysis in Excel. Necessary Data was downloaded from M
 
 __Recruiting Processes__ - A report created in Power Bi summarizing the number of recruitment processes conducted in individual departments, their duration and other information. Contains calculations in DAX.
 
+__Employee Absenteeism__ - A graph showing the prediction of the number of absences under 30 days and a table with the Bradford index.
+
 [My sample dashboards created in Tableau](https://public.tableau.com/app/profile/judyta6092)
 
 <details>
