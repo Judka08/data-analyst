@@ -25,3 +25,5 @@ __Healthcare Dataset__ - Statistical analysis of patients' health
 __Reported Time__ -  The project written in VBA consists of adding a header in column F of the "Reported Time" sheet, checking the dates in the "Reported Date" column and inserting the appropriate values ​​("Yes", "No" or "Invalid data format"), and adding a button in the sheet that runs the above procedure and displays a message about completion of the work.
 
 __Sales Report__ - Editing a sales document using VBA. Includes actions such as: copying a sheet, creating a table, inserting a formula, formatting cells.
+
+__Sales dashboard for e-commerce__ - Daily online sales report, created in Power BI with data retrieved from the database.
